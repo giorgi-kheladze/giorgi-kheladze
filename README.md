@@ -1,4 +1,4 @@
-![Demo](assets/githubBG.gif)
+![Demo](assets/githubBG2.gif)
 
 ## Hi there 👋
 
