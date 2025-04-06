@@ -2,8 +2,8 @@
 
 ## Hi there 👋 I am Giorgi Kheladze, a Georgian Web Develope!
 
-👨‍💻I'm currently learning
-🎗️Working on my project
+👨‍💻I'm currently learning <br>
+🎗️Working on my project <br>
 🛜Learning web dev about a year
 
 # 💻 Tech Stack:
