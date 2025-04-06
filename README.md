@@ -1,14 +1,10 @@
 ![Demo](assets/githubBG2.gif)
 
-## Hi there 👋
+## Hi there 👋 I am Giorgi Kheladze, a Georgian Web Develope!
 
-# 💫 About Me:
-
-I'm currently learning
-
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giorgikheladze.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/giorgi.kheladze.543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/giorgi_kheladze7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giorgi-kheladze-86b8232b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giorgikheladze546@gmail.com)
+👨‍💻I'm currently learning
+🎗️Working on my project
+🛜Learning web dev about a year
 
 # 💻 Tech Stack:
 
@@ -31,6 +27,10 @@ I'm currently learning
 ---
 
 [![](https://visitcount.itsvg.in/api?id=giorgi-kheladze&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giorgikheladze.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/giorgi.kheladze.543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/giorgi_kheladze7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giorgi-kheladze-86b8232b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giorgikheladze546@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
