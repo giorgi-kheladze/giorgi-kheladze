@@ -1,6 +1,6 @@
 ![Demo](assets/githubBG2.gif)
 
-## Hi there 👋 I am Giorgi Kheladze, a Georgian Web Develope!
+## Hi there 👋 I am Giorgi Kheladze, a Web Develope!
 
 👨‍💻I'm currently learning <br>
 🎗️Working on my project <br>
